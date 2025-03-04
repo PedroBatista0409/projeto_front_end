@@ -1,0 +1,15 @@
+a{
+    padding: 25px 40px;
+    color: black;
+    margin-left: 400px;
+}
+.login{
+    text-align: center;
+    background-color: rgba(199, 199, 199, 0.829);
+    padding: 20px 40px;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 20px;
+    border: solid black;
+    padding-bottom: 50px;
+}
